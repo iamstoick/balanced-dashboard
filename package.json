@@ -9,7 +9,7 @@
   "repository": "git@github.com:balanced/balanced-dashboard.git",
   "author": "Balanced <dev@balancedpayments.com>",
   "dependencies": {
-    "pullstream": "~0.2.1",
+    "pullstream": "~0.4.1",
     "grunt-open": "~0.2.2"
   },
   "devDependencies": {
